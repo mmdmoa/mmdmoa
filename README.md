@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Moein
 
-- 🔭 I’m currently working on A hypercasual mobile game
+- 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
 - 👯 I’m looking to collaborate on some pygame projects
 - 📫 How to reach me: pistolparody@gmail.com
