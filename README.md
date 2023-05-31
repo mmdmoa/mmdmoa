@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
 - 👯 I’m looking to collaborate on some pygame projects
-- ✨ My favorite open source project is ✨pygame-ce✨
+- 🌳 My favorite open source project is ✨pygame-ce✨
 - 📫 How to reach me: pistolparody@gmail.com
 - 😄 Pronouns: He/ Him
 - 📛 Title: Yolowex
