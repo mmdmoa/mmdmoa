@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
-- 👯 I’m looking to collaborate on some pygame projects
+- 👯 I’m looking to collaborate on a pygame project
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - 📫 How to reach me: pistolparody@gmail.com
 - 😄 Pronouns: He/ Him
