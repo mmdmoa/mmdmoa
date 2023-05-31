@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Moein
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on A hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
 - 👯 I’m looking to collaborate on some pygame projects
 - 📫 How to reach me: pistolparody@gmail.com
 - 😄 Pronouns: He/ Him
 - 📛 Title: Yolowex
+- 🐶 Pet name: Harley
+- 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
 
