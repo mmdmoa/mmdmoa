@@ -3,12 +3,14 @@
 - 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
 - 👯 I’m looking to collaborate on some pygame projects
+- ✨ My favorite open source project is ✨pygame-ce✨
 - 📫 How to reach me: pistolparody@gmail.com
 - 😄 Pronouns: He/ Him
 - 📛 Title: Yolowex
 - 🐶 Pet name: Harley
 - 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
