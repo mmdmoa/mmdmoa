@@ -9,11 +9,10 @@
 - 📛 Title: Yolowex
 - 🐶 Pet name: Harley
 - 😅 Pet Pronouns: She/ Her
-- Wakatime: [![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
-
-
+     [![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)
+- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmdmoa&count_private=true&show_icons=true&theme=merko" />
 </a>
