@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Moein
 
+[![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)
+
 - 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning python and pygame-ce
 - 👯 I’m looking to collaborate on a pygame project
