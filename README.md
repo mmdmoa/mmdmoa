@@ -11,7 +11,7 @@
 - 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
-____________________________[![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)____________________________
+.____________________________[![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)____________________________.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmdmoa&count_private=true&show_icons=true&theme=merko" />
