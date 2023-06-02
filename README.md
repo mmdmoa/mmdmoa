@@ -9,6 +9,7 @@
 - 📛 Title: Yolowex
 - 🐶 Pet name: Harley
 - 😅 Pet Pronouns: She/ Her
+- Wakatime: [![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
 
@@ -22,4 +23,4 @@
 </a> 
 
 
-[![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)
+
