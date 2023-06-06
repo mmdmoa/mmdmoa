@@ -24,7 +24,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolowex&layout=compact&count_private=true&show_icons=false&theme=merko" />
 </a> 
 
-* My last account @pistolparody
+# my last account 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pistolparody&count_private=true&show_icons=true&theme=merko" />
