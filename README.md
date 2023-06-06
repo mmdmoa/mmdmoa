@@ -28,7 +28,7 @@
 # 
 # 
 # 
-* my last account at @pistolparody
+* my last account's stats https://github.com/pistolparody
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pistolparody&count_private=true&show_icons=true&theme=merko" />
 </a>
