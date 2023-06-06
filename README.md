@@ -11,7 +11,7 @@
 - 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
-
+* my current account's stats https://github.com/pistolparody
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yolowex&count_private=true&show_icons=true&theme=merko" />
 </a>
