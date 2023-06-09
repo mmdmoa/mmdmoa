@@ -11,7 +11,6 @@
 - 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
-* my current account's stats https://github.com/pistolparody
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yolowex&count_private=true&show_icons=true&theme=merko" />
 </a>
@@ -22,20 +21,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolowex&layout=compact&count_private=true&show_icons=false&theme=merko" />
 </a> 
 
-#
-#
-# 
-# 
-# 
-# 
-* my last account's stats https://github.com/pistolparody
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pistolparody&count_private=true&show_icons=true&theme=merko" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistolparody&layout=compact&count_private=true&show_icons=false&theme=merko" />
-</a>
 
 
 
