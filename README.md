@@ -1,11 +1,10 @@
-### Hi there 👋 I'm Moein
+### Hi there 👋 This is Yolowex!
 
 - 🔭 I’m currently working on a hypercasual mobile game
 - 🌱 I’m currently learning Python, Java, pygame and libGDX
 - 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - 📫 How to contact me on my discord: Yolowex#5586
-- 📛 Title: Yolowex
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
