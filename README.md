@@ -1,14 +1,11 @@
 ### Hi there 👋 I'm Moein
 
 - 🔭 I’m currently working on a hypercasual mobile game
-- 🌱 I’m currently learning python and pygame-ce
-- 👯 I’m looking to collaborate on a pygame project
+- 🌱 I’m currently learning Python, Java, pygame and libGDX
+- 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
-- 📫 How to reach me: pistolparody@gmail.com
-- 😄 Pronouns: He/ Him
+- 📫 How to contact me on my discord: Yolowex#5586
 - 📛 Title: Yolowex
-- 🐶 Pet name: Harley
-- 😅 Pet Pronouns: She/ Her
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
