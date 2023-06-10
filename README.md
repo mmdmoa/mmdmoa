@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Yolowex!
 
 - 🔭 I’m currently working on a hypercasual mobile game
-- 🌱 I’m currently learning Python, Java, pygame and libGDX
+- 🌱 I’m currently learning Pygame and libGDX
 - 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - 📫 How to contact me on my discord: Yolowex#5586
