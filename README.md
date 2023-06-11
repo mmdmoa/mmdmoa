@@ -6,3 +6,5 @@
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - 📫 How to contact me: discord@Yolowex#5586
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
+
+[![Yolowex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolowex&layout=compact)](https://github.com/yolowex/github-readme-stats)
