@@ -17,6 +17,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolowex&layout=compact&count_private=true&show_icons=false&theme=merko" />
 </a> 
 
-
+[swift]: https://github-readme-stats.vercel.app/api?username=yolowex&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift
 
 
