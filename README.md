@@ -7,4 +7,4 @@
 - 📫 How to contact me: discord@Yolowex#5586
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
 
-[![Yolowex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolowex&theme=gradiant)](https://github.com/yolowex/github-readme-stats)
+[![Yolowex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolowex&theme=dark)](https://github.com/yolowex/github-readme-stats)
