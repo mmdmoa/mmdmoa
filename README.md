@@ -5,11 +5,7 @@
 - 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
-
-#
-<a>[![Yolowex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolowex&layout=compact&theme=dark)](https://github.com/yolowex/github-readme-stats) </a>
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolowex&layout=compact&theme=dark)](https://github.com/yolowex/github-readme-stats)</a>
-#
+  
 <a>[![wakatime](https://wakatime.com/badge/user/eb31e4ca-2bdc-4403-8de7-6d29488d75cd.svg)](https://wakatime.com/@eb31e4ca-2bdc-4403-8de7-6d29488d75cd)</a>
 
 
