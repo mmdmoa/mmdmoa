@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Yolowex!
 
-- 🔭 I’m currently working on a hypercasual mobile game
+- 🔭 I’m currently making a desktop image gallery/editor with pygame. 
 - 🌱 I’m currently learning Pygame and libGDX
 - 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
