@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Yolowex!
 
-- 🔭 I’m currently making a desktop image gallery/editor with pygame. 
-- 🌱 I’m currently learning Pygame and libGDX
+- 🔭 I’m currently making nothing. 
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on a FOSS project
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
