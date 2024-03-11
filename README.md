@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Yolowex!
 
-- 🔭 I’m currently making nothing. 
+- 🔭 I’m currently making fantastic card game. 
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on a FOSS project
+- 👯 I’m not looking to collaborate on a FOSS project (since i'm busy and all)
 - 🌳 My favorite open source project is ✨pygame-ce✨
 - ⚡ Fun fact: The only part of your reflection that you can lick is your tongue
   
