@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Yolowex!
 
-- 🔭 I’m currently making a mobile vpn client.
+- 🔭 I’m currently making a desktop dns setter client.
 - 🌱 I’m currently learning Flutter
 - 👯 I’m not looking to collaborate on a FOSS project (since i'm busy and all)
 - 🌳 My favorite open source project is no longer ✨pygame-ce✨, it's Flutter
