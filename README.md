@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Yolowex!
 
-- 🔭 I’m currently making a desktop dns setter client.
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently making a complex clustered API server.
+- 🌱 I’m currently learning Backend development with Fastapi
 - 👯 I’m not looking to collaborate on a FOSS project (since i'm busy and all)
 - 🌳 My favorite open source project is no longer ~~✨pygame-ce✨~~, it's Flutter
 - ⚡ Fun fact: If you hit gas, clutch and break at the same time while driving, the car takes a screenshot.
